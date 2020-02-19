@@ -4,6 +4,8 @@
 
 Super simple extension that slices your integrated terminal into two.
 
+Personally I like to run one terminal instance for build tools like `gulp` alongside one for other tasks like `git` commands etc. I got tired of hitting the keyboard shortcut on startup constantly, so this extension was born!
+
 ## Requirements
 
 None.
